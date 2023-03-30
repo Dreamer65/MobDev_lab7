@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sign_in</string>
+    <string name="sign_name">Sign in</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="textview_forgot_password">Forgot password?</string>
+    <string name="textview_sign_in_with">Or sign in with</string>
+</resources>
